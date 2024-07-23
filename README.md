@@ -33,12 +33,10 @@ Bootcamp Análisis de Datos
 **Modulo 4:** Visualizacion de datos intermedio	
 	
 - Tema 1:	<a href="https://docs.google.com/document/d/1f_VPeyAPIJzuuHbgqBuGqxUGe-U7kYet1ulP4nai4kk" target="_blank">Diseño efectivo de visualizaciones de datos</a>
-- Tema 2:	Herramientas de visualización intermedias (Tableau, Power BI).
+- Tema 2:	<a href="https://docs.google.com/document/d/1OSgZX9QtXGxLY-K_WKAM-95Hyo-NJjggse5e2vuQT2I" target="_blank">Herramientas de visualización intermedias (Tableau, Power BI)</a>
 - Tema 3:	Creación de dashboards y visualizaciones interactivas.
 - Tema 4:	Visualización de datos geográficos y temporales.
 - Tema 5:	Storytelling con datos y presentación efectiva de análisis.
-
-<a href="https://www.openai.com" target="_blank">Visita OpenAI</a>
 
 
 **Modulo 5:** Machine learning para analisis de datos	
