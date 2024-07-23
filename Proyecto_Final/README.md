@@ -25,3 +25,47 @@ Debido a la amplitud y profundidad de los datos que proporciona esta base de dat
 - **Análisis de Impacto de Políticas y Regulaciones**: Permite evaluar el impacto de políticas en el desarrollo de recursos energéticos renovables y estudiar el efecto de acuerdos internacionales en estrategias energéticas nacionales.
 
 ---
+
+**Estructura de la Base de Datos:**
+
+
+1. **Información Geográfica e Identificación:**
+   - **country** (cadena): Código ISO del país donde está ubicada la planta de energía.
+   - **country_long** (cadena): Nombre completo del país.
+   - **name** (cadena): Nombre de la planta de energía.
+   - **gppd_idnr** (cadena): Identificador único para cada planta de energía en la base de datos global.
+   - **latitude** (flotante): Latitud geográfica de la planta de energía.
+   - **longitude** (flotante): Longitud geográfica de la planta de energía.
+
+2. **Especificaciones Técnicas:**
+   - **capacity_mw** (flotante): Capacidad total de generación eléctrica de la planta en megavatios.
+   - **primary_fuel** (cadena): Fuente principal de combustible utilizada (por ejemplo, Carbón, Gas, Hidroeléctrica, Nuclear, Solar, Eólica).
+   - **other_fuel1**, **other_fuel2**, **other_fuel3** (cadena, opcional): Fuentes secundarias o terciarias de combustible, si las hay.
+
+3. **Detalles Operativos:**
+   - **commissioning_year** (flotante, opcional): Año en que la planta comenzó operaciones, importante para entender la antigüedad y tecnología de la planta.
+   - **owner** (cadena, opcional): Nombre de la entidad que posee la planta de energía.
+
+4. **Fuentes de Datos y Verificación:**
+   - **source** (cadena): Nombre de la organización que proporcionó los datos.
+   - **url** (cadena): Enlace a la página web de donde se obtuvieron los datos.
+   - **geolocation_source** (cadena): Fuente de las coordenadas geográficas (por ejemplo, GPS, SIG, registros gubernamentales).
+
+5. **Datos de Generación Anual:**
+   - **generation_gwh_2013** a **generation_gwh_2019** (flotante, opcional): Generación eléctrica anual en gigavatios-hora para los años respectivos.
+   - **generation_data_source** (cadena, opcional): Fuente de donde se obtuvieron los datos de generación.
+
+6. **Estimaciones y Proyecciones:**
+   - **estimated_generation_gwh** (varios años, flotante, opcional): Cifras estimadas de generación para varios años, utilizadas cuando no hay datos reales disponibles.
+
+### Fuentes de Datos:
+
+La información en la Base de Datos Global de Plantas de Energía se recolecta de múltiples fuentes para asegurar precisión y exhaustividad:
+
+1. **Agencias Internacionales de Energía**: Como la Agencia Internacional de Energía (AIE), que proporcionan datos estandarizados sobre generación de energía y tipos de combustibles.
+2. **Informes y Bases de Datos Gubernamentales**: Bases de datos nacionales y regionales que rastrean la producción de energía y la infraestructura.
+3. **Compañías de Servicios Públicos**: Datos directamente de las compañías que operan las plantas de energía, que a menudo son los más precisos para detalles operativos como capacidad y generación.
+4. **Imágenes Satelitales y Datos Geográficos**: Para verificar ubicaciones y capacidades de las plantas, especialmente en regiones menos accesibles.
+5. **Instituciones Académicas y de Investigación**: Estudios y encuestas realizados por universidades y organizaciones de investigación también pueden contribuir con datos, particularmente para estimaciones e impactos ambientales.
+6. **Datos de Fuente Abierta y Proyectos Colaborativos**: Conjuntos de datos de acceso público y agregado que recopilan información global sobre plantas de energía.
+
