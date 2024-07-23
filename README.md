@@ -37,7 +37,10 @@ Bootcamp Análisis de Datos
 - Tema 3:	Creación de dashboards y visualizaciones interactivas.
 - Tema 4:	Visualización de datos geográficos y temporales.
 - Tema 5:	Storytelling con datos y presentación efectiva de análisis.
-	
+
+<a href="https://www.openai.com" target="_blank">Visita OpenAI</a>
+
+
 **Modulo 5:** Machine learning para analisis de datos	
 	
 - Tema 1:	Conceptos de machine learning.
