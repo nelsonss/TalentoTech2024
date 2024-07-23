@@ -84,10 +84,12 @@ La información en la Base de Datos Global de Plantas de Energía se recolecta d
    - Interpretación del modelo
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMZ0ZYdiDxe6a-jCWcXRNbU8S38dJNhPFZ6-AFiW3SL9InE23Cz6UYs2pOdcP6NrVkIeH7R9CvI8K2GLZKAhSpeoV0q2SW_X0PLhLjInLZjasbXYDFMOq5DFmvDaiCWd8AvbGDvwE5PN7Yc8dtRxK9C=w2772-h437-s-no-gm?authuser=0" alt="Análisis EcoEnergéticos">
-<img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/subestacion%20electrica.jpg.transform/rp-rendition-md/image.jpg" alt="Análisis EcoEnergéticos">
 
    - Creación de visualizaciones
    - Métricas clave
    - Interactividad
+
+<img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/subestacion%20electrica.jpg.transform/rp-rendition-md/image.jpg" alt="Análisis EcoEnergéticos">
+
 
 
