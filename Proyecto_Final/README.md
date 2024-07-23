@@ -71,10 +71,23 @@ La información en la Base de Datos Global de Plantas de Energía se recolecta d
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOetl_6K0xFFI1Eps2gk_t8sBcGbLguXH-O12EGXtc32OmVgr1SpjEcX34CvrqvkU0tomEpuHgFibbGNxxmD9aY0uON9t0tjRUbhWD7SpKqZHFBBjM7npW2Z8u6lydNy0WFa6rN5w0BRhhs4YB_xuOU=w2772-h347-s-no-gm?authuser=0" alt="Descripción de la imagen">
 
+   - Exploración de variables
+   - Visualización de datos
+   - Análisis descriptivo
+
+
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Descripción de la imagen" >
+
+   - Selección de modelo
+   - Entrenamiento y validación del modelo
+   - Selección del mejor modelo
+   - Interpretación del modelo
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMZ0ZYdiDxe6a-jCWcXRNbU8S38dJNhPFZ6-AFiW3SL9InE23Cz6UYs2pOdcP6NrVkIeH7R9CvI8K2GLZKAhSpeoV0q2SW_X0PLhLjInLZjasbXYDFMOq5DFmvDaiCWd8AvbGDvwE5PN7Yc8dtRxK9C=w2772-h437-s-no-gm?authuser=0" alt="Análisis EcoEnergéticos">
 <img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/subestacion%20electrica.jpg.transform/rp-rendition-md/image.jpg" alt="Análisis EcoEnergéticos">
 
+   - Creación de visualizaciones
+   - Métricas clave
+   - Interactividad
 
 
