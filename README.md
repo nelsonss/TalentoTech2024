@@ -34,7 +34,7 @@ Bootcamp Análisis de Datos
 	
 - Tema 1:	<a href="https://docs.google.com/document/d/1f_VPeyAPIJzuuHbgqBuGqxUGe-U7kYet1ulP4nai4kk" target="_blank">Diseño efectivo de visualizaciones de datos</a>
 - Tema 2:	<a href="https://docs.google.com/document/d/1OSgZX9QtXGxLY-K_WKAM-95Hyo-NJjggse5e2vuQT2I" target="_blank">Herramientas de visualización intermedias (Tableau, Power BI)</a>
-- Tema 3:	Creación de dashboards y visualizaciones interactivas.
+- Tema 3:	<a href="https://docs.google.com/document/d/1p4grcYMSi1v6-LXXQe_vMxOWZyysGxVX1N8ua5TGVPI/" target="_blank">Creación de dashboards y visualizaciones interactivas.</a>
 - Tema 4:	Visualización de datos geográficos y temporales.
 - Tema 5:	Storytelling con datos y presentación efectiva de análisis.
 
