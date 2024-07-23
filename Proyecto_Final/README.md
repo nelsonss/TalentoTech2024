@@ -5,7 +5,7 @@ Bootcamp Análisis y Visualización de Datos AVDV2-45
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMWciNA8OuBQJLwyUDJPme-QgFozGX99R6ZqE716hapSILA47Y0h_z42QIxC5rIk7CVH-LvXHBs4yC4DhIBReYGus5JH4V3ADWc8iVQhbgl7ca4NtjieGPnwpsOjlO0W_9YNGQyOJyCFmtWRd6672HP=w2555-h820-s-no-gm?authuser=0" alt="Eco-energy analysis of power plants">
 
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczO4TGUlLkudPTscZbFf9PMpyNvtpfyAns5MugRfUFiu4vewpwWA8eQln8VhguThYtH1-fqYgbbGww6S83onR0HySty8eB2_DPcKPETM07ZCf9M1_Na8ieEZHydiLH9KLp6OnSNFfNhJYFYVGnU_mXt-=w2772-h369-s-no-gm?authuser=0" alt="Descripción de la imagen" width="900">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczO4TGUlLkudPTscZbFf9PMpyNvtpfyAns5MugRfUFiu4vewpwWA8eQln8VhguThYtH1-fqYgbbGww6S83onR0HySty8eB2_DPcKPETM07ZCf9M1_Na8ieEZHydiLH9KLp6OnSNFfNhJYFYVGnU_mXt-=w2772-h369-s-no-gm?authuser=0" alt="Descripción de la imagen">
 
 ### 1.1 Selección del Proyecto
 **Bases de Datos Utilizadas:**
@@ -69,9 +69,9 @@ La información en la Base de Datos Global de Plantas de Energía se recolecta d
 5. **Instituciones Académicas y de Investigación**: Estudios y encuestas realizados por universidades y organizaciones de investigación también pueden contribuir con datos, particularmente para estimaciones e impactos ambientales.
 6. **Datos de Fuente Abierta y Proyectos Colaborativos**: Conjuntos de datos de acceso público y agregado que recopilan información global sobre plantas de energía.
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczOetl_6K0xFFI1Eps2gk_t8sBcGbLguXH-O12EGXtc32OmVgr1SpjEcX34CvrqvkU0tomEpuHgFibbGNxxmD9aY0uON9t0tjRUbhWD7SpKqZHFBBjM7npW2Z8u6lydNy0WFa6rN5w0BRhhs4YB_xuOU=w2772-h347-s-no-gm?authuser=0" alt="Descripción de la imagen" width="900">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOetl_6K0xFFI1Eps2gk_t8sBcGbLguXH-O12EGXtc32OmVgr1SpjEcX34CvrqvkU0tomEpuHgFibbGNxxmD9aY0uON9t0tjRUbhWD7SpKqZHFBBjM7npW2Z8u6lydNy0WFa6rN5w0BRhhs4YB_xuOU=w2772-h347-s-no-gm?authuser=0" alt="Descripción de la imagen">
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Descripción de la imagen" width="900">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Descripción de la imagen" >
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMZ0ZYdiDxe6a-jCWcXRNbU8S38dJNhPFZ6-AFiW3SL9InE23Cz6UYs2pOdcP6NrVkIeH7R9CvI8K2GLZKAhSpeoV0q2SW_X0PLhLjInLZjasbXYDFMOq5DFmvDaiCWd8AvbGDvwE5PN7Yc8dtRxK9C=w2772-h437-s-no-gm?authuser=0" alt="Análisis EcoEnergéticos">
 <img src="https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/subestacion%20electrica.jpg.transform/rp-rendition-md/image.jpg" alt="Análisis EcoEnergéticos">
