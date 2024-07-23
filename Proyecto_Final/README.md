@@ -1,4 +1,6 @@
 # **Proyecto : Eco-energy analysis of power plants**
+Realizado por: Nelson Sánchez Sánchez
+Bootcamp Análisis y Visualización de Datos AVDV2-45
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMWciNA8OuBQJLwyUDJPme-QgFozGX99R6ZqE716hapSILA47Y0h_z42QIxC5rIk7CVH-LvXHBs4yC4DhIBReYGus5JH4V3ADWc8iVQhbgl7ca4NtjieGPnwpsOjlO0W_9YNGQyOJyCFmtWRd6672HP=w2555-h820-s-no-gm?authuser=0" alt="Eco-energy analysis of power plants">
 
