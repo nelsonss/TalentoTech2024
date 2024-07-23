@@ -1,6 +1,6 @@
 # TalentoTech2024
 Bootcamp Análisis de Datos 
-
+<img src="https://talentotechbogota.co/images/Anal%C3%ADtica_de_datos.webp" alt="Bootcamp Análisis de Datos" style="box-shadow: 5px 5px 10px \#888;">
 ## Temas a tratar
 
 **Modulo 1:** Refinamiento de tecnicas avanzadas de analisis de datos	
