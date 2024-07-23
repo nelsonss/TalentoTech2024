@@ -4,7 +4,6 @@
 
 Bootcamp Análisis de Datos 
 
-
 ## Temas a tratar
 
 **Modulo 1:** Refinamiento de tecnicas avanzadas de analisis de datos	
