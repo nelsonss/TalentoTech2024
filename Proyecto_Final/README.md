@@ -7,7 +7,7 @@ Bootcamp Análisis y Visualización de Datos AVDV2-45
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczO4TGUlLkudPTscZbFf9PMpyNvtpfyAns5MugRfUFiu4vewpwWA8eQln8VhguThYtH1-fqYgbbGww6S83onR0HySty8eB2_DPcKPETM07ZCf9M1_Na8ieEZHydiLH9KLp6OnSNFfNhJYFYVGnU_mXt-=w2772-h369-s-no-gm?authuser=0" alt="Descripción de la imagen">
 
-### 1.1 Selección del Proyecto
+### Selección del Proyecto
 **Bases de Datos Utilizadas:**
 [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 
