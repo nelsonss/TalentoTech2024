@@ -1,0 +1,2170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="6">
+        <Folder id="7">
+            <Style id="10">
+                <IconStyle id="11">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="12">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczPp7_niesdNWX4Ni6piri1KR0JtSF3jM6SX2OhqDWch56iuekwid3EWa9-5KIX3k5k0LoKULAWkKQuOzFoYoKIqEmErSAnVDhp09-TzCURTfSsSO5N_rKADH6t9urfVLYmpbpf2iKXQIvGaMuGvzJ36=w64-h63-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="13">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="16">
+                <IconStyle id="17">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="18">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczPp7_niesdNWX4Ni6piri1KR0JtSF3jM6SX2OhqDWch56iuekwid3EWa9-5KIX3k5k0LoKULAWkKQuOzFoYoKIqEmErSAnVDhp09-TzCURTfSsSO5N_rKADH6t9urfVLYmpbpf2iKXQIvGaMuGvzJ36=w64-h63-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="19">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="22">
+                <IconStyle id="23">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="24">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczPp7_niesdNWX4Ni6piri1KR0JtSF3jM6SX2OhqDWch56iuekwid3EWa9-5KIX3k5k0LoKULAWkKQuOzFoYoKIqEmErSAnVDhp09-TzCURTfSsSO5N_rKADH6t9urfVLYmpbpf2iKXQIvGaMuGvzJ36=w64-h63-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="25">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="28">
+                <IconStyle id="29">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="30">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczPp7_niesdNWX4Ni6piri1KR0JtSF3jM6SX2OhqDWch56iuekwid3EWa9-5KIX3k5k0LoKULAWkKQuOzFoYoKIqEmErSAnVDhp09-TzCURTfSsSO5N_rKADH6t9urfVLYmpbpf2iKXQIvGaMuGvzJ36=w64-h63-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="31">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="34">
+                <IconStyle id="35">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="36">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczPp7_niesdNWX4Ni6piri1KR0JtSF3jM6SX2OhqDWch56iuekwid3EWa9-5KIX3k5k0LoKULAWkKQuOzFoYoKIqEmErSAnVDhp09-TzCURTfSsSO5N_rKADH6t9urfVLYmpbpf2iKXQIvGaMuGvzJ36=w64-h63-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="37">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Solar</name>
+            <Placemark id="9">
+                <name>BhSP4} Phelan</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczORyJt6Q0jS9_0pjCyzC4OAVoH22_UDruT4-AFaW0MycM6iphUbNpwq5O7aqsdQOnT4lFwrvhukzcvk2O8-vV3v4lefLmtQN-b66G6-f40LJJvl9h3DgH94ivbMPpnlOeKQU7J5lkNV--196ZnEvRwY=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Solar&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;BhSP4} Phelan&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Solar&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 50.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; India&lt;/p&gt;
+        &lt;a href=&quot;https://www.wiki-solar.org&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#10</styleUrl>
+                <Point id="8">
+                    <coordinates>71.975,27.467,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="15">
+                <name>Tengger</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczORyJt6Q0jS9_0pjCyzC4OAVoH22_UDruT4-AFaW0MycM6iphUbNpwq5O7aqsdQOnT4lFwrvhukzcvk2O8-vV3v4lefLmtQN-b66G6-f40LJJvl9h3DgH94ivbMPpnlOeKQU7J5lkNV--196ZnEvRwY=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Solar&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Tengger&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Solar&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 20.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;https://www.wiki-solar.org&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#16</styleUrl>
+                <Point id="14">
+                    <coordinates>105.04,37.565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="21">
+                <name>Centrale Solaire Noor Ouarzazate 3</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczORyJt6Q0jS9_0pjCyzC4OAVoH22_UDruT4-AFaW0MycM6iphUbNpwq5O7aqsdQOnT4lFwrvhukzcvk2O8-vV3v4lefLmtQN-b66G6-f40LJJvl9h3DgH94ivbMPpnlOeKQU7J5lkNV--196ZnEvRwY=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Solar&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Centrale Solaire Noor Ouarzazate 3&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Solar&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 150.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2017.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Morocco&lt;/p&gt;
+        &lt;a href=&quot;https://www.nrel.gov/csp/solarpaces/project_detail.cfm/projectID=4293&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#22</styleUrl>
+                <Point id="20">
+                    <coordinates>-6.8622,31.0092,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="27">
+                <name>Ivanpah 2</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczORyJt6Q0jS9_0pjCyzC4OAVoH22_UDruT4-AFaW0MycM6iphUbNpwq5O7aqsdQOnT4lFwrvhukzcvk2O8-vV3v4lefLmtQN-b66G6-f40LJJvl9h3DgH94ivbMPpnlOeKQU7J5lkNV--196ZnEvRwY=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Solar&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Ivanpah 2&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Solar&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 133.4&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2014.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United States of America&lt;/p&gt;
+        &lt;a href=&quot;http://www.eia.gov/electricity/data/browser/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#28</styleUrl>
+                <Point id="26">
+                    <coordinates>-115.4686,35.5561,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="33">
+                <name>Centrale Solaire Noor Ouarzazate 1</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczORyJt6Q0jS9_0pjCyzC4OAVoH22_UDruT4-AFaW0MycM6iphUbNpwq5O7aqsdQOnT4lFwrvhukzcvk2O8-vV3v4lefLmtQN-b66G6-f40LJJvl9h3DgH94ivbMPpnlOeKQU7J5lkNV--196ZnEvRwY=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Solar&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Centrale Solaire Noor Ouarzazate 1&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Solar&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 160.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2016.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Morocco&lt;/p&gt;
+        &lt;a href=&quot;http://www.auptde.org/NewsDetails.aspx?lang=en&amp;NID=283&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#34</styleUrl>
+                <Point id="32">
+                    <coordinates>-6.8449,31.0404,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="38">
+            <Style id="41">
+                <IconStyle id="42">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="43">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOHmWttg3HScY6xksHtB1ktQc6-dpGSiX3k48c7fUtXYlAn5YUIMnfqxvmfE0nqUxaiQC5Z9M1TVEOmLNnVquAEIUsUpvrjyTTPAy8vc6bwJteg7fo4KEU_cCOx1zAXCATCNs6LHZf-NlWd-ZipotI2=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="44">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="47">
+                <IconStyle id="48">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="49">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOHmWttg3HScY6xksHtB1ktQc6-dpGSiX3k48c7fUtXYlAn5YUIMnfqxvmfE0nqUxaiQC5Z9M1TVEOmLNnVquAEIUsUpvrjyTTPAy8vc6bwJteg7fo4KEU_cCOx1zAXCATCNs6LHZf-NlWd-ZipotI2=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="50">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="53">
+                <IconStyle id="54">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="55">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOHmWttg3HScY6xksHtB1ktQc6-dpGSiX3k48c7fUtXYlAn5YUIMnfqxvmfE0nqUxaiQC5Z9M1TVEOmLNnVquAEIUsUpvrjyTTPAy8vc6bwJteg7fo4KEU_cCOx1zAXCATCNs6LHZf-NlWd-ZipotI2=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="56">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="59">
+                <IconStyle id="60">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="61">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOHmWttg3HScY6xksHtB1ktQc6-dpGSiX3k48c7fUtXYlAn5YUIMnfqxvmfE0nqUxaiQC5Z9M1TVEOmLNnVquAEIUsUpvrjyTTPAy8vc6bwJteg7fo4KEU_cCOx1zAXCATCNs6LHZf-NlWd-ZipotI2=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="62">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="65">
+                <IconStyle id="66">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="67">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOHmWttg3HScY6xksHtB1ktQc6-dpGSiX3k48c7fUtXYlAn5YUIMnfqxvmfE0nqUxaiQC5Z9M1TVEOmLNnVquAEIUsUpvrjyTTPAy8vc6bwJteg7fo4KEU_cCOx1zAXCATCNs6LHZf-NlWd-ZipotI2=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="68">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Hydro</name>
+            <Placemark id="40">
+                <name>Three Gorges Dam</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP7s_F4Ajr7k2wjH9frZpZJIsuaE8IKlKDMQ-XdiYtvHTdeac9EtZiqAAdqUiLtXuKtIcb8XE0gBPwv407Hyua7RAcr-G2VU3od7tC6si51rzqIOLti_wJyCCAaZe8dHVSzJ_KLtNTFVUgbQjgYhVhB=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Hydro&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Three Gorges Dam&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Hydro&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 22500.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2003.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;http://www.ctgpc.com.cn/sx/sxgczds.php?mClassId=015004&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#41</styleUrl>
+                <Point id="39">
+                    <coordinates>111.0032,30.8235,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="46">
+                <name>Itaipu Binacional Dam (Paraguay part)</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP7s_F4Ajr7k2wjH9frZpZJIsuaE8IKlKDMQ-XdiYtvHTdeac9EtZiqAAdqUiLtXuKtIcb8XE0gBPwv407Hyua7RAcr-G2VU3od7tC6si51rzqIOLti_wJyCCAaZe8dHVSzJ_KLtNTFVUgbQjgYhVhB=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Hydro&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Itaipu Binacional Dam (Paraguay part)&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Hydro&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 7000.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 1984.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Paraguay&lt;/p&gt;
+        &lt;a href=&quot;http://www.ssme.gov.py/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#47</styleUrl>
+                <Point id="45">
+                    <coordinates>-54.5889,-25.4081,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="52">
+                <name>Xiluodu</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP7s_F4Ajr7k2wjH9frZpZJIsuaE8IKlKDMQ-XdiYtvHTdeac9EtZiqAAdqUiLtXuKtIcb8XE0gBPwv407Hyua7RAcr-G2VU3od7tC6si51rzqIOLti_wJyCCAaZe8dHVSzJ_KLtNTFVUgbQjgYhVhB=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Hydro&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Xiluodu&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Hydro&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 12600.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2013.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;http://www.chincold.org.cn/dams/rootfiles/2010/07/20/1279253974175246-1279253974178251.pdf&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#53</styleUrl>
+                <Point id="51">
+                    <coordinates>103.65,28.26,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="58">
+                <name>Belo Monte</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP7s_F4Ajr7k2wjH9frZpZJIsuaE8IKlKDMQ-XdiYtvHTdeac9EtZiqAAdqUiLtXuKtIcb8XE0gBPwv407Hyua7RAcr-G2VU3od7tC6si51rzqIOLti_wJyCCAaZe8dHVSzJ_KLtNTFVUgbQjgYhVhB=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Hydro&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Belo Monte&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Hydro&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 3327.45544&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2016.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Brazil&lt;/p&gt;
+        &lt;a href=&quot;http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#59</styleUrl>
+                <Point id="57">
+                    <coordinates>-51.775,-3.1264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="64">
+                <name>Hoover Dam (AZ)</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczP7s_F4Ajr7k2wjH9frZpZJIsuaE8IKlKDMQ-XdiYtvHTdeac9EtZiqAAdqUiLtXuKtIcb8XE0gBPwv407Hyua7RAcr-G2VU3od7tC6si51rzqIOLti_wJyCCAaZe8dHVSzJ_KLtNTFVUgbQjgYhVhB=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Hydro&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Hoover Dam (AZ)&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Hydro&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 1039.4&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 1944.0974600731188&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United States of America&lt;/p&gt;
+        &lt;a href=&quot;http://www.eia.gov/electricity/data/browser/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#65</styleUrl>
+                <Point id="63">
+                    <coordinates>-114.738,36.0155,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="69">
+            <Style id="72">
+                <IconStyle id="73">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="74">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOcG7-fk_0Py-wQWrAO2tFSEJtAWTgiBbonI8hh3zPvKhORsEH6KDuiozQyMjtI1kQt2MCMYYTXWIE8Xsv-p5S2Zclzd4cKrUiNF8HGNLIh_i60xTj4xHmLvYTAJ21nr7LrE2qOkbNpNuZGfgqzffZX=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="75">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="78">
+                <IconStyle id="79">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="80">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOcG7-fk_0Py-wQWrAO2tFSEJtAWTgiBbonI8hh3zPvKhORsEH6KDuiozQyMjtI1kQt2MCMYYTXWIE8Xsv-p5S2Zclzd4cKrUiNF8HGNLIh_i60xTj4xHmLvYTAJ21nr7LrE2qOkbNpNuZGfgqzffZX=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="81">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="84">
+                <IconStyle id="85">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="86">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOcG7-fk_0Py-wQWrAO2tFSEJtAWTgiBbonI8hh3zPvKhORsEH6KDuiozQyMjtI1kQt2MCMYYTXWIE8Xsv-p5S2Zclzd4cKrUiNF8HGNLIh_i60xTj4xHmLvYTAJ21nr7LrE2qOkbNpNuZGfgqzffZX=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="87">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="90">
+                <IconStyle id="91">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="92">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOcG7-fk_0Py-wQWrAO2tFSEJtAWTgiBbonI8hh3zPvKhORsEH6KDuiozQyMjtI1kQt2MCMYYTXWIE8Xsv-p5S2Zclzd4cKrUiNF8HGNLIh_i60xTj4xHmLvYTAJ21nr7LrE2qOkbNpNuZGfgqzffZX=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="93">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="96">
+                <IconStyle id="97">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="98">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczOcG7-fk_0Py-wQWrAO2tFSEJtAWTgiBbonI8hh3zPvKhORsEH6KDuiozQyMjtI1kQt2MCMYYTXWIE8Xsv-p5S2Zclzd4cKrUiNF8HGNLIh_i60xTj4xHmLvYTAJ21nr7LrE2qOkbNpNuZGfgqzffZX=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="99">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Wind</name>
+            <Placemark id="71">
+                <name>Gansu Wind Farm</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrZdw5Ky1ycuVgdYFVfyHLXRiwopgjebbjEqfKZ5-kPDBQ8H-3qjqstIg0sXvVqg2sLVtpEWhBx1XAoZIn76WUMcFYtumyf3pERm3hRt1eNNaiD90lvmslSLT731KEQwelqo9puyBYnhgO_C0nW9NP=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Wind&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Gansu Wind Farm&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Wind&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 6000.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;http://www.sinovel.com/english/content/?146.html&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#72</styleUrl>
+                <Point id="70">
+                    <coordinates>95.7329,40.6876,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="77">
+                <name>Gansu Yongchang Shuiquanzi</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrZdw5Ky1ycuVgdYFVfyHLXRiwopgjebbjEqfKZ5-kPDBQ8H-3qjqstIg0sXvVqg2sLVtpEWhBx1XAoZIn76WUMcFYtumyf3pERm3hRt1eNNaiD90lvmslSLT731KEQwelqo9puyBYnhgO_C0nW9NP=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Wind&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Gansu Yongchang Shuiquanzi&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Wind&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 49.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;https://cdm.unfccc.int/Projects/redirector?ref=7286&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#78</styleUrl>
+                <Point id="76">
+                    <coordinates>101.5906,38.4306,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="83">
+                <name>Alta Wind Energy Center I</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrZdw5Ky1ycuVgdYFVfyHLXRiwopgjebbjEqfKZ5-kPDBQ8H-3qjqstIg0sXvVqg2sLVtpEWhBx1XAoZIn76WUMcFYtumyf3pERm3hRt1eNNaiD90lvmslSLT731KEQwelqo9puyBYnhgO_C0nW9NP=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Wind&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Alta Wind Energy Center I&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Wind&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 150.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2011.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United States of America&lt;/p&gt;
+        &lt;a href=&quot;http://www.eia.gov/electricity/data/browser/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#84</styleUrl>
+                <Point id="82">
+                    <coordinates>-118.3534,35.0337,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="89">
+                <name>London Array</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrZdw5Ky1ycuVgdYFVfyHLXRiwopgjebbjEqfKZ5-kPDBQ8H-3qjqstIg0sXvVqg2sLVtpEWhBx1XAoZIn76WUMcFYtumyf3pERm3hRt1eNNaiD90lvmslSLT731KEQwelqo9puyBYnhgO_C0nW9NP=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Wind&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;London Array&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Wind&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 630.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United Kingdom&lt;/p&gt;
+        &lt;a href=&quot;https://www.gov.uk/government/collections/renewable-energy-planning-data&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#90</styleUrl>
+                <Point id="88">
+                    <coordinates>1.4958,51.6217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="95">
+                <name>Hornsea 1 - Heron &amp; Njord</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPrZdw5Ky1ycuVgdYFVfyHLXRiwopgjebbjEqfKZ5-kPDBQ8H-3qjqstIg0sXvVqg2sLVtpEWhBx1XAoZIn76WUMcFYtumyf3pERm3hRt1eNNaiD90lvmslSLT731KEQwelqo9puyBYnhgO_C0nW9NP=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Wind&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Hornsea 1 - Heron &amp; Njord&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Wind&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 1200.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United Kingdom&lt;/p&gt;
+        &lt;a href=&quot;https://www.gov.uk/government/collections/renewable-energy-planning-data&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#96</styleUrl>
+                <Point id="94">
+                    <coordinates>1.4207,53.6815,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="100">
+            <Style id="103">
+                <IconStyle id="104">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="105">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczP42Gx4ux0QGec01ABJOlXGRAN7kI6eqwDSyrubMOWGgtAKvEw2aydiUU0RKHgiGEhtFlkSLZ2Ejjwm8Qysze06D-WkKht3XXsfOoSzAZDdSHBh-rRwWPwHcRXvZh7IVyf-ttpbhPbvR5b3L6KrGNio=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="106">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="109">
+                <IconStyle id="110">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="111">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczP42Gx4ux0QGec01ABJOlXGRAN7kI6eqwDSyrubMOWGgtAKvEw2aydiUU0RKHgiGEhtFlkSLZ2Ejjwm8Qysze06D-WkKht3XXsfOoSzAZDdSHBh-rRwWPwHcRXvZh7IVyf-ttpbhPbvR5b3L6KrGNio=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="112">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="115">
+                <IconStyle id="116">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="117">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczP42Gx4ux0QGec01ABJOlXGRAN7kI6eqwDSyrubMOWGgtAKvEw2aydiUU0RKHgiGEhtFlkSLZ2Ejjwm8Qysze06D-WkKht3XXsfOoSzAZDdSHBh-rRwWPwHcRXvZh7IVyf-ttpbhPbvR5b3L6KrGNio=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="118">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="121">
+                <IconStyle id="122">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="123">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczP42Gx4ux0QGec01ABJOlXGRAN7kI6eqwDSyrubMOWGgtAKvEw2aydiUU0RKHgiGEhtFlkSLZ2Ejjwm8Qysze06D-WkKht3XXsfOoSzAZDdSHBh-rRwWPwHcRXvZh7IVyf-ttpbhPbvR5b3L6KrGNio=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="124">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="127">
+                <IconStyle id="128">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="129">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczP42Gx4ux0QGec01ABJOlXGRAN7kI6eqwDSyrubMOWGgtAKvEw2aydiUU0RKHgiGEhtFlkSLZ2Ejjwm8Qysze06D-WkKht3XXsfOoSzAZDdSHBh-rRwWPwHcRXvZh7IVyf-ttpbhPbvR5b3L6KrGNio=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="130">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Nuclear</name>
+            <Placemark id="102">
+                <name>Kashiwazaki Kariwa</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOep0ho59blE8aoEFwoiRVaKYsCpQLl3KoRXA4ldWPINyYlaTT9KQm_1XJL6cZ4NECueHTZguI023F5GNlmv4qyjUvGBaqM2k2_AwdRCsxHdzcjlmdMbGrnZb0CPiP7155G2rHxtY0S3NzJX3bea-vH=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Nuclear&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Kashiwazaki Kariwa&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Nuclear&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 8212.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Japan&lt;/p&gt;
+        &lt;a href=&quot;https://www.jepic.or.jp/en/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#103</styleUrl>
+                <Point id="101">
+                    <coordinates>138.5941,37.4259,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="108">
+                <name>Bruce B</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOep0ho59blE8aoEFwoiRVaKYsCpQLl3KoRXA4ldWPINyYlaTT9KQm_1XJL6cZ4NECueHTZguI023F5GNlmv4qyjUvGBaqM2k2_AwdRCsxHdzcjlmdMbGrnZb0CPiP7155G2rHxtY0S3NzJX3bea-vH=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Nuclear&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Bruce B&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Nuclear&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 3390.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Canada&lt;/p&gt;
+        &lt;a href=&quot;http://ftp.maps.canada.ca/pub/nacei_cnaie/energy_infrastructure/PowerPlantsAllGE100MW_NorthAmerica_201708.xlsx&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#109</styleUrl>
+                <Point id="107">
+                    <coordinates>-81.6027,44.319,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="114">
+                <name>Zaporozhye</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOep0ho59blE8aoEFwoiRVaKYsCpQLl3KoRXA4ldWPINyYlaTT9KQm_1XJL6cZ4NECueHTZguI023F5GNlmv4qyjUvGBaqM2k2_AwdRCsxHdzcjlmdMbGrnZb0CPiP7155G2rHxtY0S3NzJX3bea-vH=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Nuclear&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Zaporozhye&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Nuclear&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 6000.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Ukraine&lt;/p&gt;
+        &lt;a href=&quot;http://www.energoatom.kiev.ua/en/separated/npp_zp/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#115</styleUrl>
+                <Point id="113">
+                    <coordinates>34.5863,47.5119,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="120">
+                <name>Olkiluoto 1</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOep0ho59blE8aoEFwoiRVaKYsCpQLl3KoRXA4ldWPINyYlaTT9KQm_1XJL6cZ4NECueHTZguI023F5GNlmv4qyjUvGBaqM2k2_AwdRCsxHdzcjlmdMbGrnZb0CPiP7155G2rHxtY0S3NzJX3bea-vH=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Nuclear&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Olkiluoto 1&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Nuclear&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 1760.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Finland&lt;/p&gt;
+        &lt;a href=&quot;http://www.energiavirasto.fi/en/voimalaitosrekisteri&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#121</styleUrl>
+                <Point id="119">
+                    <coordinates>21.4433,61.2371,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>Tianwan</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczOep0ho59blE8aoEFwoiRVaKYsCpQLl3KoRXA4ldWPINyYlaTT9KQm_1XJL6cZ4NECueHTZguI023F5GNlmv4qyjUvGBaqM2k2_AwdRCsxHdzcjlmdMbGrnZb0CPiP7155G2rHxtY0S3NzJX3bea-vH=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Nuclear&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Tianwan&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Nuclear&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 1980.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;https://www.iaea.org/PRIS/CountryStatistics/CountryDetails.aspx?current=CN&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#127</styleUrl>
+                <Point id="125">
+                    <coordinates>119.46,34.69,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="131">
+            <Style id="134">
+                <IconStyle id="135">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="136">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczM2T2quoNqZeGWjwthMaN1EzWa88wdugQvayW18K9MNzQ5OfNOSbYiC_-qFW_AQUFQ56fYFywe_0Gn9fZnOAzGVmSsGzBwxweVku_27folYSc4nPesQHIUajk__68ohpyVvBPts15uOwJdlh56n33Gk=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="137">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="140">
+                <IconStyle id="141">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="142">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczM2T2quoNqZeGWjwthMaN1EzWa88wdugQvayW18K9MNzQ5OfNOSbYiC_-qFW_AQUFQ56fYFywe_0Gn9fZnOAzGVmSsGzBwxweVku_27folYSc4nPesQHIUajk__68ohpyVvBPts15uOwJdlh56n33Gk=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="143">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="146">
+                <IconStyle id="147">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="148">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczM2T2quoNqZeGWjwthMaN1EzWa88wdugQvayW18K9MNzQ5OfNOSbYiC_-qFW_AQUFQ56fYFywe_0Gn9fZnOAzGVmSsGzBwxweVku_27folYSc4nPesQHIUajk__68ohpyVvBPts15uOwJdlh56n33Gk=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="149">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="152">
+                <IconStyle id="153">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="154">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczM2T2quoNqZeGWjwthMaN1EzWa88wdugQvayW18K9MNzQ5OfNOSbYiC_-qFW_AQUFQ56fYFywe_0Gn9fZnOAzGVmSsGzBwxweVku_27folYSc4nPesQHIUajk__68ohpyVvBPts15uOwJdlh56n33Gk=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="155">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="158">
+                <IconStyle id="159">
+                    <color>c8ffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                    <heading>0</heading>
+                    <Icon id="160">
+                        <href>https://lh3.googleusercontent.com/pw/AP1GczM2T2quoNqZeGWjwthMaN1EzWa88wdugQvayW18K9MNzQ5OfNOSbYiC_-qFW_AQUFQ56fYFywe_0Gn9fZnOAzGVmSsGzBwxweVku_27folYSc4nPesQHIUajk__68ohpyVvBPts15uOwJdlh56n33Gk=w64-h64-s-no-gm?authuser=0</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="161">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                </LabelStyle>
+            </Style>
+            <name>Gas</name>
+            <Placemark id="133">
+                <name>West County Energy Center</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPy87FjrW8T8zyEKzDbSfgIzgPn5SpQkjl-AM-yrmglFQei2P-TPiVQnG622sROPhfsOKB7ut4Aek5VUdzL8BX8wDIC9RD-PRCCVA-Xm55lUtdN5hLkhvGQwwMW3U3MceQiK59l7qIJEUsKVrJfokSc=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Gas&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;West County Energy Center&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Gas&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 4263.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; 2009.6666666666667&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; United States of America&lt;/p&gt;
+        &lt;a href=&quot;http://www.eia.gov/electricity/data/browser/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#134</styleUrl>
+                <Point id="132">
+                    <coordinates>-80.3747,26.6986,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="139">
+                <name>Futtsu</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPy87FjrW8T8zyEKzDbSfgIzgPn5SpQkjl-AM-yrmglFQei2P-TPiVQnG622sROPhfsOKB7ut4Aek5VUdzL8BX8wDIC9RD-PRCCVA-Xm55lUtdN5hLkhvGQwwMW3U3MceQiK59l7qIJEUsKVrJfokSc=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Gas&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Futtsu&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Gas&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 5040.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Japan&lt;/p&gt;
+        &lt;a href=&quot;https://www.jepic.or.jp/en/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#140</styleUrl>
+                <Point id="138">
+                    <coordinates>139.8319,35.3421,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="145">
+                <name>Guangdong Huizhou</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPy87FjrW8T8zyEKzDbSfgIzgPn5SpQkjl-AM-yrmglFQei2P-TPiVQnG622sROPhfsOKB7ut4Aek5VUdzL8BX8wDIC9RD-PRCCVA-Xm55lUtdN5hLkhvGQwwMW3U3MceQiK59l7qIJEUsKVrJfokSc=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Gas&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Guangdong Huizhou&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Gas&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 1080.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; China&lt;/p&gt;
+        &lt;a href=&quot;http://cdm.unfccc.int/UserManagement/FileStorage/5FXW3VD2OKY97Z0JAGR1UIEBQM4TNH&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#146</styleUrl>
+                <Point id="144">
+                    <coordinates>114.61,22.76,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>Shin Nagoya</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPy87FjrW8T8zyEKzDbSfgIzgPn5SpQkjl-AM-yrmglFQei2P-TPiVQnG622sROPhfsOKB7ut4Aek5VUdzL8BX8wDIC9RD-PRCCVA-Xm55lUtdN5hLkhvGQwwMW3U3MceQiK59l7qIJEUsKVrJfokSc=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Gas&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Shin Nagoya&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Gas&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 3058.0&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Japan&lt;/p&gt;
+        &lt;a href=&quot;https://www.jepic.or.jp/en/&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#152</styleUrl>
+                <Point id="150">
+                    <coordinates>136.8767,35.0645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="157">
+                <name>Atalaia</name>
+                <description>
+    &lt;html&gt;
+    &lt;head&gt;
+        &lt;meta charset=&quot;UTF-8&quot;&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+        &lt;title&gt;Card Plantas
+        &lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt;
+        &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt;
+        
+    &lt;/head&gt;
+    &lt;style&gt;
+        body {
+            background-color: #869E84;
+            font-family: &quot;Poppins&quot;, sans-serif;
+        }
+        .container {
+            background: #fff;
+            width: 300px;
+            height: auto;
+            padding: 15px;
+            border-radius: 10px;
+        }
+        .container img {
+           width: 80%;
+        }
+        .container h1 {
+            color: #28666e;
+        }
+        .container p {
+            font-weight: 200;
+        }
+        .container p &gt; b {
+            font-weight: 400;
+        }
+        .container a {
+            text-decoration: none;
+            text-align: center;
+            background: #28666e;
+            color: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 5px;
+            font-size: .8rem;
+            display: inline-block;
+           display: flex;
+           justify-content: center;
+        }   
+    &lt;/style&gt;
+    &lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+    &lt;center&gt;&lt;img src=&quot;https://lh3.googleusercontent.com/pw/AP1GczPy87FjrW8T8zyEKzDbSfgIzgPn5SpQkjl-AM-yrmglFQei2P-TPiVQnG622sROPhfsOKB7ut4Aek5VUdzL8BX8wDIC9RD-PRCCVA-Xm55lUtdN5hLkhvGQwwMW3U3MceQiK59l7qIJEUsKVrJfokSc=w260-h260-s-no-gm?authuser=0&quot; alt=&quot;Gas&quot;&gt;&lt;/center&gt;
+        &lt;h1&gt;Atalaia&lt;/h1&gt;
+        &lt;p&gt;&lt;b&gt;Primary Fuel:&lt;/b&gt; Gas&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Capacity (MW):&lt;/b&gt; 4.6000000000000005&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Commissioning Year:&lt;/b&gt; nan&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;Country :&lt;/b&gt; Brazil&lt;/p&gt;
+        &lt;a href=&quot;http://www2.aneel.gov.br/aplicacoes/capacidadebrasil/capacidadebrasil.cfm&quot;&gt;More Information&lt;/a&gt;    
+        &lt;/div&gt;
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </description>
+                <styleUrl>#158</styleUrl>
+                <Point id="156">
+                    <coordinates>-37.0625,-10.907,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
