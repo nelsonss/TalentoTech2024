@@ -1,7 +1,7 @@
 # Análisis geoespacial y mapas interactivos
 
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczMhupAINq2ES9-Vn178K-b2JizJRvuigPpXcvy2dpqS02tEW62wYueOKfIG3ZiV79DrEJm7mwCrOiIUC0TIZ2sWBJOW7khx_SAfkStbbViefLE8GxsW6sSbA98-cQ_KHdsjpsz8fGQUszAhQFhquRb-=w1898-h1019-s-no-gm?authuser=0)" alt="Google Earth Studio" style="height: 100px; width:100px;"/>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMhupAINq2ES9-Vn178K-b2JizJRvuigPpXcvy2dpqS02tEW62wYueOKfIG3ZiV79DrEJm7mwCrOiIUC0TIZ2sWBJOW7khx_SAfkStbbViefLE8GxsW6sSbA98-cQ_KHdsjpsz8fGQUszAhQFhquRb-=w1898-h1019-s-no-gm?authuser=0)" alt="Google Earth Studio" />
 
 Con las coordenadas geográficas de las plantas de energía en la base de datos "Global Power Plant", se pueden realizar una variedad de análisis geoespaciales que pueden proporcionar insights valiosos sobre la distribución, el impacto y las tendencias de la generación de energía a nivel mundial. Aquí te detallo algunos tipos de análisis geoespaciales posibles:
 
