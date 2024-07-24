@@ -19,7 +19,9 @@ Con las coordenadas geográficas de las plantas de energía en la base de datos 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczOETHpbQhKQtkMTzZ1N8VzAiZn_eGladpCuIjLqZXngjnbXGArxz7yrBf9VVhlukE6ys8rNDpBWHMzShEZvr4u3mHNtuzSH9tEldwzw0eHlnq9zAPB_ivGcrXtHHCcQxVyRZhqegKQCIwBYApShMuwg=w1906-h1070-s-no-gm?authuser=0" alt="Google Earth Pro" />
 
 ### 3. **Clustering geoespacial**:
-   - Identificar clústeres de plantas basados en la proximidad geográfica y tipos de combustible. Esto puede ayudar a identificar patrones regionales en el uso de tipos de energía y estrategias de desarrollo energético.
+   - Identificar clústeres de plantas basados en la proximidad geográfica y tipos de combustible. Esto puede ayudar a identificar patrones regionales en el uso de tipos de energía, emisiones de CO2 y estrategias de desarrollo energético.
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPRuSlPNsuaJnZwHdhPrc3XQ3yWSNFDzEi9MiJO6vqtjoI1JN6gYv_9QKkYiilRVNaRcBJwU3a3WVbxWVNhiOTJ3KXBXv6bZPrE5csHXk_QIAPxleB5TrAoAET1mBuV6eLkekFWvFbMBxTQMdHBjJHs=w2125-h1208-s-no-gm?authuser=0" alt="Google Earth Pro" />
 
 ### 4. **Intersección con otras capas de datos geográficos**:
    - **Áreas protegidas y biodiversidad**: Analizar qué plantas de energía están cerca de áreas protegidas para evaluar posibles conflictos ambientales.
