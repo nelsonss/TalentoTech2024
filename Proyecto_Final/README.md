@@ -69,7 +69,7 @@ La información en la Base de Datos Global de Plantas de Energía se recolecta d
 5. **Instituciones Académicas y de Investigación**: Estudios y encuestas realizados por universidades y organizaciones de investigación también pueden contribuir con datos, particularmente para estimaciones e impactos ambientales.
 6. **Datos de Fuente Abierta y Proyectos Colaborativos**: Conjuntos de datos de acceso público y agregado que recopilan información global sobre plantas de energía.
 
-### 1.2 Definición del Problema o la Oportunidad
+### Definición del Problema o la Oportunidad
 
 ### Problema Específico:
 
