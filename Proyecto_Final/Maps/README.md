@@ -1,7 +1,7 @@
 # Análisis geoespacial y mapas interactivos
 
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczMhupAINq2ES9-Vn178K-b2JizJRvuigPpXcvy2dpqS02tEW62wYueOKfIG3ZiV79DrEJm7mwCrOiIUC0TIZ2sWBJOW7khx_SAfkStbbViefLE8GxsW6sSbA98-cQ_KHdsjpsz8fGQUszAhQFhquRb-=w1898-h1019-s-no-gm?authuser=0)" alt="Google Earth Studio" />
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMhupAINq2ES9-Vn178K-b2JizJRvuigPpXcvy2dpqS02tEW62wYueOKfIG3ZiV79DrEJm7mwCrOiIUC0TIZ2sWBJOW7khx_SAfkStbbViefLE8GxsW6sSbA98-cQ_KHdsjpsz8fGQUszAhQFhquRb-=w1898-h1019-s-no-gm?authuser=0" alt="Google Earth Studio" />
 
 Con las coordenadas geográficas de las plantas de energía en la base de datos "Global Power Plant", se pueden realizar una variedad de análisis geoespaciales que pueden proporcionar insights valiosos sobre la distribución, el impacto y las tendencias de la generación de energía a nivel mundial. Aquí te detallo algunos tipos de análisis geoespaciales posibles:
 
@@ -29,6 +29,8 @@ Con las coordenadas geográficas de las plantas de energía en la base de datos 
 
 ### 7. **Análisis de impacto ambiental**:
    - Estimar el impacto ambiental de las plantas mediante la modelación de dispersión de contaminantes y su interacción con el medio ambiente local.
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPl-GCJp1iDJ0MJP6V-LMFkelWQgWh6U8ON41pA6HgzL8Io-UUxkPGCaAY2hH8HOItuDaq-vJfIpav7-XieJr6lz3awsmhNc_5SeSoYYksCmtdZLam9k1AB22nOv7q2H9yc5KJGtysxAn761Y0rfLXT=w1898-h778-s-no-gm?authuser=0" alt="Google Earth Studio" />
 
 ### 8. **Estudio de expansión y desarrollo futuro**:
    - Identificar áreas potenciales para el desarrollo de nuevas plantas basadas en la disponibilidad de recursos, necesidades energéticas y restricciones ambientales.
