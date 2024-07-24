@@ -9,6 +9,9 @@ Con las coordenadas geográficas de las plantas de energía en la base de datos 
    - **Mapas de calor**: Para identificar áreas con alta densidad de plantas de energía.
    - **Mapas de puntos**: Cada planta puede ser representada como un punto en un mapa para visualizar su ubicación geográfica.
 
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOVZe2HYeOS3clDPkGHN_F2XCS26KMurMFLQdMxAZI50aLsA7oKyyW4ptPDRCr1gjTvxrnSPxjJF26X9_R92Z6tKUinio1MjbN5mSs7yKvLMYtNl6XQ5AL3zbxJn1Ty1MdrOrVRngugSRk_MK-FT6DE=w2172-h1426-s-no-gm?authuser=0" alt="Google Earth Studio" />
+
+
 ### 2. **Análisis de proximidad**:
    - **Cercanía a zonas urbanas**: Estudiar qué tan cerca están las plantas de las áreas pobladas puede ayudar a evaluar potenciales impactos en la salud humana o en la planificación urbana.
    - **Cercanía a cuerpos de agua**: Importante para plantas hidroeléctricas o plantas térmicas que requieren refrigeración.
