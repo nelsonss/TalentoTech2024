@@ -1,4 +1,4 @@
-Esta es una lista de las cinco plantas de energía más importantes para cada tipo de energía, destacando no solo su capacidad y eficiencia, sino también su belleza, imponencia y su condición de maravilla de la ingeniería.
+Cinco plantas de energía más importantes para cada tipo de energía, destacando no solo su capacidad y eficiencia, sino también su belleza, imponencia y su condición de maravilla de la ingeniería.
 
 ### Hidroeléctrica
 
