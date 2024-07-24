@@ -1,4 +1,4 @@
-# **Proyecto : Eco-energy analysis of power plants**
+# **Project : Eco-Energy Data Analytics for Power Plants**
 Realizado por: Nelson Sánchez Sánchez
 Bootcamp Análisis y Visualización de Datos AVDV2-45
 
