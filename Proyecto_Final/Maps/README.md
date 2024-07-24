@@ -1,6 +1,6 @@
 # Análisis geoespacial y mapas interactivos
 
-El uso de análisis geoespacial y mapas interactivos en el ámbito educativo y pedagógico ofrece numerosos beneficios para carreras orientadas a la ingeniería, especialmente en los campos de ingeniería en energía, ingeniería eléctrica, ingeniería ambiental, ingeniería civil y otras disciplinas relacionadas. A continuación, se detallan los beneficios específicos para cada una de estas carreras:
+Un resultado de éste proyecto es la creación de recursos de aprendizaje mapas interactivos, que se pueden usar para análisis geoespacial y  en el ámbito educativo y pedagógico ofrece numerosos beneficios para carreras orientadas a la ingeniería, especialmente en los campos de ingeniería en energía, ingeniería eléctrica, ingeniería ambiental, ingeniería civil y otras disciplinas relacionadas. A continuación, se detallan los beneficios específicos para cada una de estas carreras:
 
 ### Ingeniería en Energía
 
