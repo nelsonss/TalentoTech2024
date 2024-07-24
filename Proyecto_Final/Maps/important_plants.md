@@ -5,12 +5,13 @@ Esta es una lista de las cinco plantas de energía más importantes para cada ti
 1. **Three Gorges Dam, China**
    - **Capacidad**: 22,500 MW
    - **Características**: La planta hidroeléctrica más grande del mundo. Su estructura masiva y el entorno natural del río Yangtsé la convierten en una maravilla de la ingeniería moderna.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/1200px-ThreeGorgesDam-China2009.jpg" alt="Three Gorges Dam, China" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/1200px-ThreeGorgesDam-China2009.jpg" alt="Three Gorges Dam, China" />
 
 
 2. **Itaipu Dam, Brasil/Paraguay**
    - **Capacidad**: 14,000 MW
    - **Características**: Con una producción de energía anual que a veces supera a la Three Gorges Dam, Itaipu es una obra monumental que destaca por su eficiencia y su impacto en ambos países.
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Itaipu_geral.jpg" alt="Itaipu Dam, Brasil/Paraguay" />
 
 3. **Xiluodu Dam, China**
    - **Capacidad**: 13,860 MW
