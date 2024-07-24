@@ -13,6 +13,8 @@ Con las coordenadas geográficas de las plantas de energía en la base de datos 
    - **Cercanía a zonas urbanas**: Estudiar qué tan cerca están las plantas de las áreas pobladas puede ayudar a evaluar potenciales impactos en la salud humana o en la planificación urbana.
    - **Cercanía a cuerpos de agua**: Importante para plantas hidroeléctricas o plantas térmicas que requieren refrigeración.
 
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOETHpbQhKQtkMTzZ1N8VzAiZn_eGladpCuIjLqZXngjnbXGArxz7yrBf9VVhlukE6ys8rNDpBWHMzShEZvr4u3mHNtuzSH9tEldwzw0eHlnq9zAPB_ivGcrXtHHCcQxVyRZhqegKQCIwBYApShMuwg=w1906-h1070-s-no-gm?authuser=0" alt="Google Earth Pro" />
+
 ### 3. **Clustering geoespacial**:
    - Identificar clústeres de plantas basados en la proximidad geográfica y tipos de combustible. Esto puede ayudar a identificar patrones regionales en el uso de tipos de energía y estrategias de desarrollo energético.
 
