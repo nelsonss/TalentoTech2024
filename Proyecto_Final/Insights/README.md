@@ -1,4 +1,7 @@
 ### Países con Mayor Capacidad Instalada de Generación Eléctrica
+
+<img src="https://lh3.googleusercontent.com/pw/AP1GczPCf2lcXUsAWewRlTvY4ial36jf3CtIEWUR5zB5DoJRcxzXVk7hYxWhgAHkUU8hOXn4gEzdugjtsBDbuwlutHLPrbSvP6iQyzYoxGvpH34M3ebSsjrDwUVsswD7kyIxCvLX51fpfHjH6oRXe-nsPJ2s=w1178-h864-s-no-gm?authuser=0" alt="Capacidad Instalada de Generación Eléctrica" />
+
 1. **China:** 1,415,067 MW
 2. **Estados Unidos de América:** 1,204,638 MW
 3. **India:** 316,088 MW
