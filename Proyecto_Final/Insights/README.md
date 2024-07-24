@@ -48,7 +48,6 @@ Este tipo de análisis es útil para comprender la distribución global de la ge
 
 Este análisis proporciona una vista panorámica de cómo se distribuyen las capacidades de generación de energía según el tipo de combustible a nivel mundial.
 
-
 ### Evolución Anual de la Producción de Energía (en GWh)
 
 El análisis de la evolución de la producción de energía por año revela cómo ha cambiado la generación total de energía entre 2013 y 2019. Aquí te presento los resultados y algunas observaciones clave:
