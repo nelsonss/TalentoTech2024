@@ -16,6 +16,7 @@ Esta es una lista de las cinco plantas de energía más importantes para cada ti
 3. **Xiluodu Dam, China**
    - **Capacidad**: 13,860 MW
    - **Características**: Una de las presas más altas del mundo, su diseño y capacidad la colocan como una de las plantas más importantes globalmente.
+<img src="https://www.globaltimes.cn/Portals/0/attachment/2022/2022-11-13/74e096e0-5ecb-4b65-9610-86fa1083bd57.jpeg" alt="Xiluodu Dam, China" />
 
 4. **Belo Monte Dam, Brasil**
    - **Capacidad**: 11,233 MW
