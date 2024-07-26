@@ -93,14 +93,14 @@ Con estos datos, el proyecto puede realizar un Análisis Exploratorio de Datos (
 
 ---
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczOetl_6K0xFFI1Eps2gk_t8sBcGbLguXH-O12EGXtc32OmVgr1SpjEcX34CvrqvkU0tomEpuHgFibbGNxxmD9aY0uON9t0tjRUbhWD7SpKqZHFBBjM7npW2Z8u6lydNy0WFa6rN5w0BRhhs4YB_xuOU=w2772-h347-s-no-gm?authuser=0" alt="Descripción de la imagen">
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOetl_6K0xFFI1Eps2gk_t8sBcGbLguXH-O12EGXtc32OmVgr1SpjEcX34CvrqvkU0tomEpuHgFibbGNxxmD9aY0uON9t0tjRUbhWD7SpKqZHFBBjM7npW2Z8u6lydNy0WFa6rN5w0BRhhs4YB_xuOU=w2772-h347-s-no-gm?authuser=0" alt="Módulo 2 : Análisis Exploratorio de Datos (EDA)">
 
    - Exploración de variables
    - Visualización de datos
    - Análisis descriptivo
+   [Análisis geoespacial y mapas interactivos](https://github.com/nelsonss/TalentoTech2024/tree/main/Proyecto_Final/Maps)
 
-
-<img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Descripción de la imagen" >
+<img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Módulo 3 y 4 : Módelo de Aprendizaje Automático" >
 
    - Selección de modelo
    - Entrenamiento y validación del modelo
