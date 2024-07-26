@@ -98,7 +98,7 @@ Con estos datos, el proyecto puede realizar un Análisis Exploratorio de Datos (
    - Exploración de variables
    - Visualización de datos
    - Análisis descriptivo
-   [Análisis geoespacial y mapas interactivos](https://github.com/nelsonss/TalentoTech2024/tree/main/Proyecto_Final/Maps)
+   - [Mapas interactivos y aportes a la docencia](https://github.com/nelsonss/TalentoTech2024/tree/main/Proyecto_Final/Maps)
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczMhP-E_cge2AzZDw-_qJzYUaxoADgFRM-hbnWvPLi-TMKT6YCeRisGFU-uU_OvDDkIEnl_scgMyAxYdg4pBfcL-9TFdeRXp_YjxcjQBuHA7odvt-P5qcaxIzKiwfMrGYemaDaIF4xCBpp6B9v634_RC=w2772-h376-s-no-gm?authuser=0" alt="Módulo 3 y 4 : Módelo de Aprendizaje Automático" >
 
