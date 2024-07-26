@@ -113,5 +113,6 @@ Con estos datos, el proyecto puede realizar un Análisis Exploratorio de Datos (
    - Creación de visualizaciones
    - Métricas clave
    - Interactividad
+   - [Algunos Insights](https://github.com/nelsonss/TalentoTech2024/tree/main/Proyecto_Final/Insights)
 
 
