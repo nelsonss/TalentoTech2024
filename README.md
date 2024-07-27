@@ -54,5 +54,7 @@ Bootcamp Análisis de Datos
 - Tema 4:	Desafíos éticos en análisis de datos y privacidad.
 - Tema 5:	Tendencias actuales en análisis y visualización de datos.
 
+**Proyecto Final:** Eco-Energy Data Analytics for Power Plants
+
 [Enlace al Proyecto : Eco-Energy Data Analytics for Power Plants](https://github.com/nelsonss/TalentoTech2024/tree/main/Proyecto_Final)
 
