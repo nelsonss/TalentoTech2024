@@ -1,3 +1,5 @@
+[POWER BI Público](https://app.powerbi.com/view?r=eyJrIjoiZmY0NzZlZmYtNTc2OC00MzA5LWEwN2ItMzRjMzhmMWQ0NWVlIiwidCI6IjJlYzk4MWZiLTkyODMtNDNhMC05YTM5LTMzMzJmYzU0ZDc3NCIsImMiOjR9)
+
 <img src="https://lh3.googleusercontent.com/pw/AP1GczNubl89UhqXtCcX7d3tXtWxMX-slfCHfXQ1zSmVC79qV-x-U75h2jFezdFH5AlfT3mDnFc1TDhWGMMjgBPokGLXV6vf0erbHBMLsdzEcXZniyjAeT7z_kw3FnSoDWLOz6WWobJWFQDsfWSXnUHPT_FY=w2099-h1100-s-no-gm?authuser=0" alt="Capacidad Instalada de Generación Eléctrica" />
 
 <img src="https://lh3.googleusercontent.com/pw/AP1GczPXsW_yKJCRyoT75IAl6c3I1pydUiBzS16uyUWKzsTewcb87Bo5_LnGzitxVdjRBUYykGfnSnxjNkJaiaQw40oOAMCT3-htxrX5wgDO3EMk3JlYTxI4bOXLJV-S2g1u1FCv444PnpFkUmDGnQ1oYad9=w2269-h1097-s-no-gm?authuser=0" alt="Capacidad Instalada de Generación Eléctrica" />
