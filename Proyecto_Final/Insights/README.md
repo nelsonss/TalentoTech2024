@@ -78,4 +78,3 @@ El análisis de la evolución de la producción de energía por año revela cóm
 
 Este análisis destaca la importancia de monitorear las tendencias de producción de energía para entender mejor los impactos de las políticas energéticas, los avances tecnológicos y las dinámicas del mercado global.
 
-
